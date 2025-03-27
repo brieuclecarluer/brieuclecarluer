@@ -8,4 +8,4 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-### For more info check out my [portfolio](brieuclecarluer.github.io/Portfolio/) !
+### For more info check out my [portfolio](https://brieuclecarluer.github.io/Portfolio/) !
